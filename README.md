@@ -1,4 +1,4 @@
-# Static Website Hosting with S3 and CloudFront Using Terraform
+# Static Website Hosting with S3 and CloudFront Using Terraform.
 
 ## Overview
 
@@ -288,6 +288,8 @@ Key benefits of this setup include:
 * **Manageability**: Terraform simplifies the management of your infrastructure, making it easy to apply changes and track the state of your resources.
 
 By following this guide, you can set up a secure, scalable, and performant static website hosting solution on AWS.
-#   s 3 - s t a t i c - w e b i s t e - w i t h - c l o u f r o n t - u s i n g - t e r r a f o r m  
- #   s 3 - s t a t i c - w e b i s t e - w i t h - c l o u f r o n t - u s i n g - t e r r a f o r m  
+#   s 3 - s t a t i c - w e b i s t e - w i t h - c l o u f r o n t - u s i n g - t e r r a f o r m 
+ 
+ #   s 3 - s t a t i c - w e b i s t e - w i t h - c l o u f r o n t - u s i n g - t e r r a f o r m 
+ 
  

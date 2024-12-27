@@ -1,0 +1,61 @@
+# for envs/dev
+
+# Ignore Terraform state files
+backend/*.tfstate
+backend/*.tfstate.*
+backend/terraform.tfstate.backup
+backend/terraform.tfstate.backup.*
+
+# Ignore Terraform variables file
+backend/terraform.tfvars
+
+# Ignore Terraform plugin directory
+backend/.terraform/
+
+backend/terraform.lock.hcl
+backend/.terraform.lock.hcl
+
+# Ignore logs and temporary files
+backend/*.log
+backend/*.swp
+
+# for envs/dev
+
+# Ignore Terraform state files
+envs/dev/*.tfstate
+envs/dev/*.tfstate.*
+envs/dev/terraform.tfstate.backup
+envs/dev/terraform.tfstate.backup.*
+
+# Ignore Terraform variables file
+envs/dev/terraform.tfvars
+
+# Ignore Terraform plugin directory
+envs/dev/.terraform/
+
+envs/dev/terraform.lock.hcl
+envs/dev/.terraform.lock.hcl
+
+# Ignore logs and temporary files
+envs/dev/*.log
+envs/dev/*.swp
+
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
+terraform.tfstate.backup
+terraform.tfstate.backup.*
+
+# Ignore Terraform variables file
+terraform.tfvars
+
+# Ignore Terraform plugin directory
+.terraform/
+
+terraform.lock.hcl
+.terraform.lock.hcl
+
+# Ignore logs and temporary files
+*.log
+*.swp
